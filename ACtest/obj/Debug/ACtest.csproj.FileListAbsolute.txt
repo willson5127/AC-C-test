@@ -1,0 +1,13 @@
+C:\Users\willson\source\repos\ACtest\ACtest\obj\Debug\ACtest.csprojAssemblyReference.cache
+C:\Users\willson\source\repos\ACtest\ACtest\obj\Debug\ACtest.Form1.resources
+C:\Users\willson\source\repos\ACtest\ACtest\obj\Debug\ACtest.Properties.Resources.resources
+C:\Users\willson\source\repos\ACtest\ACtest\obj\Debug\ACtest.csproj.GenerateResource.cache
+C:\Users\willson\source\repos\ACtest\ACtest\obj\Debug\ACtest.csproj.CoreCompileInputs.cache
+C:\Users\willson\source\repos\ACtest\ACtest\bin\Debug\ACtest.exe.config
+C:\Users\willson\source\repos\ACtest\ACtest\bin\Debug\ACtest.exe
+C:\Users\willson\source\repos\ACtest\ACtest\bin\Debug\ACtest.pdb
+C:\Users\willson\source\repos\ACtest\ACtest\bin\Debug\AssettoCorsaSharedMemory.dll
+C:\Users\willson\source\repos\ACtest\ACtest\bin\Debug\AssettoCorsaSharedMemory.pdb
+C:\Users\willson\source\repos\ACtest\ACtest\obj\Debug\ACtest.csproj.CopyComplete
+C:\Users\willson\source\repos\ACtest\ACtest\obj\Debug\ACtest.exe
+C:\Users\willson\source\repos\ACtest\ACtest\obj\Debug\ACtest.pdb
